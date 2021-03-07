@@ -31,7 +31,6 @@ namespace Benzersiz.Sayilar.App
 
             for (int i = 0; i < sayilar.Length; i++)
             {
-                sayilar[i] = rnd.Next(0, 75);
                 Console.Write(sayilar[i] + " ");
             }
             Console.ReadLine();
