@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Benzersiz.Sayilar.App\Benzersiz.Sayilar.App\bin\Debug\Benzersiz.Sayilar.App.exe.config
+C:\Users\pc\source\repos\Benzersiz.Sayilar.App\Benzersiz.Sayilar.App\bin\Debug\Benzersiz.Sayilar.App.exe
+C:\Users\pc\source\repos\Benzersiz.Sayilar.App\Benzersiz.Sayilar.App\bin\Debug\Benzersiz.Sayilar.App.pdb
+C:\Users\pc\source\repos\Benzersiz.Sayilar.App\Benzersiz.Sayilar.App\obj\Debug\Benzersiz.Sayilar.App.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Benzersiz.Sayilar.App\Benzersiz.Sayilar.App\obj\Debug\Benzersiz.Sayilar.App.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Benzersiz.Sayilar.App\Benzersiz.Sayilar.App\obj\Debug\Benzersiz.Sayilar.App.exe
+C:\Users\pc\source\repos\Benzersiz.Sayilar.App\Benzersiz.Sayilar.App\obj\Debug\Benzersiz.Sayilar.App.pdb
